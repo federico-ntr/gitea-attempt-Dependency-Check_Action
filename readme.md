@@ -89,6 +89,4 @@ Downloading this and opening it in a browser will give you the following (for ex
 
 # Who Is Behind It?
 
-Dependency check action was developed by the Santander UK Security Engineering team, namely:
-
-- [Javier Domínguez Ruiz](https://github.com/javixeneize)
+Dependency check action was developed by [Javier Domínguez Ruiz](https://github.com/javixeneize)
