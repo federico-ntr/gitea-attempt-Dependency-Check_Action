@@ -39,4 +39,4 @@ runs:
         - '${{ inputs.oss-index-username }}'
         - '--ossIndexPassword'
         - '${{ inputs.oss-index-password }}'
-        - ${{ inputs.args }}
+        - '${{ inputs.args }}'
