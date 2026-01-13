@@ -29,7 +29,7 @@ runs:
         - '--project'
         - '${{ inputs.project }}'
         - '--scan'
-        - '/workspace/${{ inputs.path }}'
+        - '/${{ inputs.path }}'
         - '--format' 
         - '${{ inputs.format }}'
         - '--out'
